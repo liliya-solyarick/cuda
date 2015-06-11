@@ -431,7 +431,6 @@ blockquote.blockquote_right {
  	border-radius: 5px 5px 5px 5px; /*Закругляем уголки*/
  }
 
-
  input[type="text"] { 
     padding: 20px;
     color: #FFFFFF;
@@ -463,8 +462,6 @@ blockquote.blockquote_right {
 	text-align: center;
 }
 
-
-
 .footer {
 	height: 115px;
 	background-color: #344B8E;
@@ -479,7 +476,6 @@ ul.link li {
 	font-family: Times New Roman;
 	font-size: 24pt;
 	margin-left: 55px;
-
 } 
 
 .link {
